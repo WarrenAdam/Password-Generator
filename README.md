@@ -1,7 +1,7 @@
 # Password-Generator
 
 ## Description
-This week's challenge is to use starter code to create a functioning password generator. To implent this password generator, we used our knowledge of JavaScript to make the starter code function. Within this password generator, we used conditional statements, functions, methods, if statements, for-loops and more to ensure that the password generator randomized and genrated specific passwords. In addition, the password generator contains alerts if an undesired action was input from the user. This alert would then redirect them to try again with a guiding prompt.
+This week's challenge is to use starter code to create a functioning password generator. To implent this password generator, we used our knowledge of JavaScript to make the starter code function. Within this password generator, we used conditional statements, functions, methods, if statements, for-loops and more to ensure that the password generator randomized and genrated specific passwords. In addition, the password generator contains alerts if an undesired action was input from the user. This alert would then redirect them to try again with a guiding prompt. For the challenge to be successful, the user will be able to generate a password randomly based on the prompts created by the developer without any issues.
 
 ## User Story
 The following is reasoning to make the password generator (adapted from bootcamp module 3 challenge):
