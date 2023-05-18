@@ -37,7 +37,7 @@ function generatePassword() {
   return password;
 
 }
-
+//Ensure user puts a correct digit(s) for password
 function prompts() {
   charLength = parseInt(prompt("How many characters (between 8-128) would you like for your password?"));
   passwordOptions = [];
